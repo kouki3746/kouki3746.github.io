@@ -3,8 +3,7 @@ layout: post
 title:  "初めての記事"
 date:   2023-04-21 15:00:00 +0900
 categories: 
----
-初めまして、jekyllでサイトを立ててみました。
+---初めまして、jekyllでサイトを立ててみました。
 音楽を聴くのが好きです。
 
 ```javascript
