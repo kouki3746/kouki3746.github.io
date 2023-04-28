@@ -22,3 +22,5 @@ categories:
 - みかん
 - ぶどう
 - バナナ
+
+[Yahoo! JAPAN](https://www.yahoo.co.jp/)
