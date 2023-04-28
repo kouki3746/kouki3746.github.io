@@ -26,3 +26,5 @@ categories:
 [Yahoo! JAPAN](https://www.yahoo.co.jp/)
 
 ![変わった絵](/assets/images/line%E5%86%99%E7%9C%9F.jpg)
+
+[![変わった絵](/assets/images/line%E5%86%99%E7%9C%9F.jpg)](https://www.yahoo.co.jp/)
